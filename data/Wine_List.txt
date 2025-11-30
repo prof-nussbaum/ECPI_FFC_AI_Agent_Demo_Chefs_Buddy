@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>The Rustic Vineyard Kitchen Wine List</h2>
+<table>
+  <tr>
+    <th>Major Type</th>
+    <th>Specific Type</th>
+    <th>Flavor Profile</th>
+    <th>Price (US$)</th>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>To Kalon Vineyard Reserve Cabernet Sauvignon (2020)</td>
+    <td>"Powerful aromas of cassis, black plum and spice box; dense and structured with firm tannins and a long
+savory finish."</td>
+    <td>$175</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Oakville The Estates Cabernet Sauvignon (2022)</td>
+    <td>"Deep black cherries and blackcurrants, hints of black olives; full-bodied yet plush texture with
+fine-grained tannins."</td>
+    <td>$105</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>The Estates Merlot Oakville (2021)</td>
+    <td>"Dark cherry, cocoa and graphite aromas; medium-bodied palate with supple tannins and mocha finish."</td>
+    <td>$65</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Reserve Pinot Noir Carneros (2020)</td>
+    <td>"Fragrant red cherry, pomegranate and rose petal aromas; silky texture with earthy spice and subtle
+oak."</td>
+    <td>$60</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Napa Valley Syrah (2021)</td>
+    <td>"Smoky blackberry, black pepper and leather tones; full-bodied and bold with lingering spice."</td>
+    <td>$58</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Napa Valley Cabernet Sauvignon (2021)</td>
+    <td>"Dark plum and blackberry with violet, licorice and warm spice notes; medium-full body with polished
+tannins, long finish."</td>
+    <td>$55</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Barrel Select Zinfandel (2022)</td>
+    <td>"Jammy raspberry and black pepper aromas with layers of vanilla and spice; smooth and warming
+finish."</td>
+    <td>$52</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Napa Valley Red Blend (2021)</td>
+    <td>"Juicy fresh red fruits and bright plum layered with cedar and sweet herbs; elegant structure and
+mouth-coating tannins."</td>
+    <td>$50</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Napa Valley Red Blend (2019)</td>
+    <td>"Ripe plum, black cherry, cedar and graham cracker aromas; flavors of sweet tobacco, dried herbs,
+blackberries and dark chocolate."</td>
+    <td>$50</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Heritage Petite Sirah (2020)</td>
+    <td>"Concentrated blueberry and black plum flavors; firm tannins and subtle cocoa undertones."</td>
+    <td>$48</td>
+  </tr>
+  <tr>
+    <td>Rosé</td>
+    <td>To Kalon Vineyard Rosé (2023)</td>
+    <td>"Aromatic strawberry and rose petal bouquet; bright acidity with notes of pink grapefruit and white
+peach."</td>
+    <td>$38</td>
+  </tr>
+  <tr>
+    <td>Rosé</td>
+    <td>Sparkling Rosé Napa Valley (NV)</td>
+    <td>"Delicate bubbles with flavors of strawberry, red apple and citrus peel; crisp and lively."</td>
+    <td>$34</td>
+  </tr>
+  <tr>
+    <td>Rosé</td>
+    <td>Napa Valley Rosé (2021)</td>
+    <td>"Cranberry, golden raspberry and citrus flavors with hints of watermelon rind; focused, smooth and crisp
+finish."</td>
+    <td>$30</td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td>Reserve Chardonnay Napa Valley (2021)</td>
+    <td>"Ripe pear, apple and toasted brioche aromas; rich texture balanced by fresh acidity and a lingering
+citrus cream finish."</td>
+    <td>$55</td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td>Napa Valley Sauvignon Blanc (2022)</td>
+    <td>"Expressive and fresh Sauvignon character from Stags Leap and Oakville vineyards; crisp, lively citrus and
+bright tropical fruit notes."</td>
+    <td>$50</td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td>Fume Blanc (2022)</td>
+    <td>"Zesty grapefruit, lemongrass and melon aromas with smoky minerality from oak aging; crisp and
+vibrant."</td>
+    <td>$45</td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td>Late Harvest Riesling (2021 375mL)</td>
+    <td>"Lush honey, apricot and orange blossom sweetness balanced by bright acidity; perfect dessert wine."</td>
+    <td>$42</td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td>Oakville Viognier (2022)</td>
+    <td>"Floral nose of honeysuckle and apricot; round mouthfeel with hints of vanilla and citrus zest."</td>
+    <td>$40</td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td>Carneros Albariño (2023)</td>
+    <td>Lively green apple and lime zest aromas; crisp minerality and refreshing saline finish.</td>
+    <td>$36</td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td>Napa Valley Moscato d'Oro (2020 375mL)</td>
+    <td>"Bright lime-blossom and honeysuckle aromatics; juicy white peach, candied fennel and zesty clementine on
+the palate; bright and refreshing."</td>
+    <td>$25</td>
+  </tr>
+</table>
+</body>
+</html>

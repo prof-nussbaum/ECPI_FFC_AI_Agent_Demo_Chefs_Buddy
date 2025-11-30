@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Grilled Salmon with White Rice and Steamed Vegetables</h2>
+<h3>Ingredients:</h3>
+
+<ul>
+  <li>1 salmon fillet (6 ounces)</li>
+  <li>1/2 cup white rice</li>
+  <li>1 cup water</li>
+  <li>1 tablespoon olive oil</li>
+  <li>1 clove garlic, minced</li>
+  <li>1/2 teaspoon lemon juice</li>
+  <li>Salt and pepper to taste</li>
+  <li>Assorted steamed vegetables (such as broccoli, carrots, green beans)</li>
+</ul>
+
+<h3>Instructions:</h3>
+
+<ol>
+  <li><strong>Prepare the rice:** Rinse the rice in a fine mesh strainer until the water runs clear. In a medium
+saucepan, combine the rice and water. Bring to a boil over high heat, then reduce the heat to low, cover, and
+simmer for about 15-20 minutes or until the water is absorbed and the rice is tender.</li>
+  <li><strong>Prepare the salmon:** Preheat grill to medium-high heat. In a small bowl, mix together the olive
+oil, garlic, lemon juice, salt, and pepper. Brush both sides of the salmon fillet with the marinade.</li>
+  <li><strong>Grill the salmon:** Place the salmon fillet on the preheated grill and cook for about 4-6 minutes
+per side or until it is cooked through to your desired level of doneness.</li>
+  <li><strong>Steam the vegetables:** Fill a small pot with about an inch of water. Bring to a boil, then reduce
+the heat to medium-low. Add the steamed vegetables and cover the pot with a lid. Steam for about 5-7 minutes or
+until the vegetables are tender.</li>
+  <li><strong>Serve:** Serve the grilled salmon on top of the white rice, accompanied by the steamed
+vegetables.</li>
+</ol>
+
+<p><strong>Tips:**
+  * Make sure to not overcrowd the grill, as this can cause the salmon to cook unevenly.
+  * You can also add other seasonings or herbs to the marinade for added flavor.
+  * For an extra crispy crust on the salmon, try grilling it for an additional minute or two after it's cooked
+through.</p>
+</body>
+</html>

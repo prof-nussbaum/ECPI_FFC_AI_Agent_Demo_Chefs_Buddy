@@ -1,0 +1,998 @@
+Day,Time,Item,Type,Price,Discount (%),Payment Method
+101,11:22 AM,Coke,Soft Drink,3,0,Credit Card
+101,11:22 AM,Deluxe Burger,Main Course,18,0,Credit Card
+101,11:22 AM,French Fries,Side,5,0,Credit Card
+101,11:35 AM,Bread and butter,Side,2,0,Cash
+101,11:35 AM,Ceasar Salad,Main Course,12,0,Cash
+101,11:35 AM,Lemonade,Soft Drink,3,0,Cash
+101,11:48 AM,Grilled Salmon,Main Course,24,0,Credit Card
+101,11:48 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+101,11:48 AM,Steamed vegetables,Side,5,0,Credit Card
+101,12:06 PM,Deluxe Burger,Main Course,18,0,Credit Card
+101,12:06 PM,French Fries,Side,5,0,Credit Card
+101,12:06 PM,Sprite,Soft Drink,3,0,Credit Card
+101,12:19 PM,Ceasar Salad,Main Course,12,0,Cash
+101,12:19 PM,Cole Slaw,Side,5,0,Cash
+101,12:19 PM,Oakville Viognier (2022),Wine,40,0,Cash
+101,12:37 PM,Grilled Salmon,Main Course,24,0,Credit Card
+101,12:37 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Credit Card
+101,12:37 PM,White rice,Side,2,0,Credit Card
+101,12:53 PM,Deluxe Burger,Main Course,18,0,Cash
+101,12:53 PM,Sprite,Soft Drink,3,0,Cash
+101,12:53 PM,Steamed vegetables,Side,5,0,Cash
+101,1:10 PM,Bread and butter,Side,2,0,Credit Card
+101,1:10 PM,Carneros Albari o (2023),Wine,36,0,Credit Card
+101,1:10 PM,Ceasar Salad,Main Course,12,0,Credit Card
+101,5:26 PM,Grilled Salmon,Main Course,24,0,Cash
+101,5:26 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Cash
+101,5:26 PM,Steamed vegetables,Side,5,0,Cash
+101,5:40 PM,Deluxe Burger,Main Course,18,0,Credit Card
+101,5:40 PM,French Fries,Side,5,0,Credit Card
+101,5:40 PM,Sprite,Soft Drink,3,0,Credit Card
+101,6:02 PM,Bread and butter,Side,2,0,Credit Card
+101,6:02 PM,Ceasar Salad,Main Course,12,0,Credit Card
+101,6:02 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+101,6:19 PM,Grilled Salmon,Main Course,24,0,Credit Card
+101,6:19 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Credit Card
+101,6:19 PM,Steamed vegetables,Side,5,0,Credit Card
+101,6:34 PM,Coke,Soft Drink,3,0,Cash
+101,6:34 PM,Deluxe Burger,Main Course,18,0,Cash
+101,6:34 PM,White rice,Side,2,0,Cash
+101,7:03 PM,Grilled Salmon,Main Course,24,0,Credit Card
+101,7:03 PM,Napa Valley Syrah (2021),Wine,58,0,Credit Card
+101,7:03 PM,Steamed vegetables,Side,5,0,Credit Card
+101,7:45 PM,Bread and butter,Side,2,0,Credit Card
+101,7:45 PM,Ceasar Salad,Main Course,12,0,Credit Card
+101,7:45 PM,Late Harvest Riesling (2021 375mL),Wine,42,0,Credit Card
+101,8:03 PM,Deluxe Burger,Main Course,18,0,Cash
+101,8:03 PM,French Fries,Side,5,0,Cash
+101,8:03 PM,Lemonade,Soft Drink,3,0,Cash
+101,8:46 PM,Grilled Salmon,Main Course,24,0,Credit Card
+101,8:46 PM,Napa Valley Cabernet Sauvignon (2021),Wine,55,0,Credit Card
+101,8:46 PM,Steamed vegetables,Side,5,0,Credit Card
+102,11:19 AM,Ceasar Salad,Main Course,12,0,Credit Card
+102,11:19 AM,Lemonade,Soft Drink,3,0,Credit Card
+102,11:19 AM,White rice,Side,2,0,Credit Card
+102,11:33 AM,Grilled Salmon,Main Course,24,0,Cash
+102,11:33 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Cash
+102,11:33 AM,Steamed vegetables,Side,5,0,Cash
+102,11:48 AM,Deluxe Burger,Main Course,18,0,Credit Card
+102,11:48 AM,French Fries,Side,5,0,Credit Card
+102,11:48 AM,Sprite,Soft Drink,3,0,Credit Card
+102,12:10 PM,Ceasar Salad,Main Course,12,0,Credit Card
+102,12:10 PM,Cole Slaw,Side,5,0,Credit Card
+102,12:10 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+102,12:22 PM,Grilled Salmon,Main Course,24,0,Cash
+102,12:22 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Cash
+102,12:22 PM,Steamed vegetables,Side,5,0,Cash
+102,12:39 PM,Bread and butter,Side,2,0,Credit Card
+102,12:39 PM,Deluxe Burger,Main Course,18,0,Credit Card
+102,12:39 PM,Diet Coke,Soft Drink,3,0,Credit Card
+102,12:58 PM,Ceasar Salad,Main Course,12,0,Credit Card
+102,12:58 PM,Oakville Viognier (2022),Wine,40,0,Credit Card
+102,12:58 PM,White rice,Side,2,0,Credit Card
+102,1:14 PM,Grilled Salmon,Main Course,24,0,Cash
+102,1:14 PM,Napa Valley Syrah (2021),Wine,58,0,Cash
+102,1:14 PM,Steamed vegetables,Side,5,0,Cash
+102,5:18 PM,Deluxe Burger,Main Course,18,0,Credit Card
+102,5:18 PM,French Fries,Side,5,0,Credit Card
+102,5:18 PM,Sprite,Soft Drink,3,0,Credit Card
+102,5:41 PM,Ceasar Salad,Main Course,12,0,Cash
+102,5:41 PM,Cole Slaw,Side,5,0,Cash
+102,5:41 PM,Lemonade,Soft Drink,3,0,Cash
+102,6:03 PM,Grilled Salmon,Main Course,24,0,Credit Card
+102,6:03 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+102,6:03 PM,Steamed vegetables,Side,5,0,Credit Card
+102,6:19 PM,Coke,Soft Drink,3,0,Credit Card
+102,6:19 PM,Deluxe Burger,Main Course,18,0,Credit Card
+102,6:19 PM,French Fries,Side,5,0,Credit Card
+102,6:44 PM,Bread and butter,Side,2,0,Cash
+102,6:44 PM,Ceasar Salad,Main Course,12,0,Cash
+102,6:44 PM,Fruit Punch,Soft Drink,3,0,Cash
+102,7:03 PM,Grilled Salmon,Main Course,24,0,Credit Card
+102,7:03 PM,Oakville The Estates Cabernet Sauvignon (2022),Wine,105,0,Credit Card
+102,7:03 PM,Steamed vegetables,Side,5,0,Credit Card
+102,7:28 PM,Deluxe Burger,Main Course,18,0,Credit Card
+102,7:28 PM,Diet Coke,Soft Drink,3,0,Credit Card
+102,7:28 PM,White rice,Side,2,0,Credit Card
+102,8:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+102,8:05 PM,Cole Slaw,Side,5,0,Credit Card
+102,8:05 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+102,8:37 PM,Grilled Salmon,Main Course,24,0,Cash
+102,8:37 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Cash
+102,8:37 PM,Steamed vegetables,Side,5,0,Cash
+103,11:17 AM,Coke,Soft Drink,3,0,Credit Card
+103,11:17 AM,Deluxe Burger,Main Course,18,0,Credit Card
+103,11:17 AM,French Fries,Side,5,0,Credit Card
+103,11:32 AM,Ceasar Salad,Main Course,12,0,Cash
+103,11:32 AM,Cole Slaw,Side,5,0,Cash
+103,11:32 AM,Lemonade,Soft Drink,3,0,Cash
+103,11:48 AM,Grilled Salmon,Main Course,24,0,Credit Card
+103,11:48 AM,Oakville Viognier (2022),Wine,40,0,Credit Card
+103,11:48 AM,Steamed vegetables,Side,5,0,Credit Card
+103,12:05 PM,Bread and butter,Side,2,0,Credit Card
+103,12:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+103,12:05 PM,Sprite,Soft Drink,3,0,Credit Card
+103,12:18 PM,Grilled Salmon,Main Course,24,0,Cash
+103,12:18 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Cash
+103,12:18 PM,Steamed vegetables,Side,5,0,Cash
+103,12:35 PM,Deluxe Burger,Main Course,18,0,Credit Card
+103,12:35 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+103,12:35 PM,White rice,Side,2,0,Credit Card
+103,12:57 PM,Bread and butter,Side,2,0,Cash
+103,12:57 PM,Ceasar Salad,Main Course,12,0,Cash
+103,12:57 PM,Lemonade,Soft Drink,3,0,Cash
+103,1:14 PM,Grilled Salmon,Main Course,24,0,Credit Card
+103,1:14 PM,Napa Valley Syrah (2021),Wine,58,0,Credit Card
+103,1:14 PM,Steamed vegetables,Side,5,0,Credit Card
+103,5:22 PM,Deluxe Burger,Main Course,18,0,Credit Card
+103,5:22 PM,French Fries,Side,5,0,Credit Card
+103,5:22 PM,Sprite,Soft Drink,3,0,Credit Card
+103,5:38 PM,Ceasar Salad,Main Course,12,0,Cash
+103,5:38 PM,Cole Slaw,Side,5,0,Cash
+103,5:38 PM,Diet Coke,Soft Drink,3,0,Cash
+103,6:01 PM,Grilled Salmon,Main Course,24,0,Credit Card
+103,6:01 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+103,6:01 PM,Steamed vegetables,Side,5,0,Credit Card
+103,6:20 PM,Deluxe Burger,Main Course,18,0,Credit Card
+103,6:20 PM,Lemonade,Soft Drink,3,0,Credit Card
+103,6:20 PM,White rice,Side,2,0,Credit Card
+103,6:43 PM,Bread and butter,Side,2,0,Cash
+103,6:43 PM,Ceasar Salad,Main Course,12,0,Cash
+103,6:43 PM,Fruit Punch,Soft Drink,3,0,Cash
+103,7:08 PM,Grilled Salmon,Main Course,24,0,Credit Card
+103,7:08 PM,Steamed vegetables,Side,5,0,Credit Card
+103,7:08 PM,The Estates Merlot Oakville (2021),Wine,65,0,Credit Card
+103,7:36 PM,Coke,Soft Drink,3,0,Credit Card
+103,7:36 PM,Deluxe Burger,Main Course,18,0,Credit Card
+103,7:36 PM,French Fries,Side,5,0,Credit Card
+103,8:09 PM,Ceasar Salad,Main Course,12,0,Credit Card
+103,8:09 PM,Cole Slaw,Side,5,0,Credit Card
+103,8:09 PM,Napa Valley Red Blend (2019),Wine,50,0,Credit Card
+103,8:42 PM,Grilled Salmon,Main Course,24,0,Cash
+103,8:42 PM,Oakville The Estates Cabernet Sauvignon (2022),Wine,105,0,Cash
+103,8:42 PM,Steamed vegetables,Side,5,0,Cash
+104,11:20 AM,Coke,Soft Drink,3,0,Credit Card
+104,11:20 AM,Deluxe Burger,Main Course,18,0,Credit Card
+104,11:20 AM,French Fries,Side,5,0,Credit Card
+104,11:38 AM,Ceasar Salad,Main Course,12,0,Cash
+104,11:38 AM,Lemonade,Soft Drink,3,0,Cash
+104,11:38 AM,White rice,Side,2,0,Cash
+104,11:55 AM,Grilled Salmon,Main Course,24,0,Credit Card
+104,11:55 AM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Credit Card
+104,11:55 AM,Steamed vegetables,Side,5,0,Credit Card
+104,12:11 PM,Ceasar Salad,Main Course,12,0,Credit Card
+104,12:11 PM,Cole Slaw,Side,5,0,Credit Card
+104,12:11 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+104,12:33 PM,Bread and butter,Side,2,0,Cash
+104,12:33 PM,Deluxe Burger,Main Course,18,0,Cash
+104,12:33 PM,Diet Coke,Soft Drink,3,0,Cash
+104,12:49 PM,Grilled Salmon,Main Course,24,0,Credit Card
+104,12:49 PM,Napa Valley Syrah (2021),Wine,58,0,Credit Card
+104,12:49 PM,Steamed vegetables,Side,5,0,Credit Card
+104,1:08 PM,Ceasar Salad,Main Course,12,0,Cash
+104,1:08 PM,French Fries,Side,5,0,Cash
+104,1:08 PM,Sprite,Soft Drink,3,0,Cash
+104,5:15 PM,Cole Slaw,Side,5,0,Credit Card
+104,5:15 PM,Deluxe Burger,Main Course,18,0,Credit Card
+104,5:15 PM,Lemonade,Soft Drink,3,0,Credit Card
+104,5:38 PM,Grilled Salmon,Main Course,24,0,Cash
+104,5:38 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Cash
+104,5:38 PM,Steamed vegetables,Side,5,0,Cash
+104,6:01 PM,Bread and butter,Side,2,0,Credit Card
+104,6:01 PM,Ceasar Salad,Main Course,12,0,Credit Card
+104,6:01 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+104,6:24 PM,Deluxe Burger,Main Course,18,0,Cash
+104,6:24 PM,Diet Coke,Soft Drink,3,0,Cash
+104,6:24 PM,White rice,Side,2,0,Cash
+104,6:50 PM,Grilled Salmon,Main Course,24,0,Credit Card
+104,6:50 PM,Oakville The Estates Cabernet Sauvignon (2022),Wine,105,0,Credit Card
+104,6:50 PM,Steamed vegetables,Side,5,0,Credit Card
+104,7:18 PM,Ceasar Salad,Main Course,12,0,Credit Card
+104,7:18 PM,Coke,Soft Drink,3,0,Credit Card
+104,7:18 PM,Cole Slaw,Side,5,0,Credit Card
+104,7:44 PM,Deluxe Burger,Main Course,18,0,Cash
+104,7:44 PM,French Fries,Side,5,0,Cash
+104,7:44 PM,Lemonade,Soft Drink,3,0,Cash
+104,8:12 PM,Grilled Salmon,Main Course,24,0,Credit Card
+104,8:12 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+104,8:12 PM,Steamed vegetables,Side,5,0,Credit Card
+104,8:39 PM,Bread and butter,Side,2,0,Credit Card
+104,8:39 PM,Ceasar Salad,Main Course,12,0,Credit Card
+104,8:39 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+105,11:15 AM,Grilled Salmon,Main Course,24,0,Cash
+105,11:15 AM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Cash
+105,11:15 AM,Steamed vegetables,Side,5,0,Cash
+105,11:32 AM,Coke,Soft Drink,3,0,Credit Card
+105,11:32 AM,Deluxe Burger,Main Course,18,0,Credit Card
+105,11:32 AM,French Fries,Side,5,0,Credit Card
+105,11:51 AM,Ceasar Salad,Main Course,12,0,Cash
+105,11:51 AM,Cole Slaw,Side,5,0,Cash
+105,11:51 AM,Lemonade,Soft Drink,3,0,Cash
+105,12:08 PM,Grilled Salmon,Main Course,24,0,Credit Card
+105,12:08 PM,Napa Valley Syrah (2021),Wine,58,0,Credit Card
+105,12:08 PM,White rice,Side,2,0,Credit Card
+105,12:27 PM,Deluxe Burger,Main Course,18,0,Cash
+105,12:27 PM,Diet Coke,Soft Drink,3,0,Cash
+105,12:27 PM,Steamed vegetables,Side,5,0,Cash
+105,12:50 PM,Bread and butter,Side,2,0,Credit Card
+105,12:50 PM,Ceasar Salad,Main Course,12,0,Credit Card
+105,12:50 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+105,1:12 PM,Grilled Salmon,Main Course,24,0,Cash
+105,1:12 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+105,1:12 PM,Steamed vegetables,Side,5,0,Cash
+105,5:10 PM,Deluxe Burger,Main Course,18,0,Credit Card
+105,5:10 PM,French Fries,Side,5,0,Credit Card
+105,5:10 PM,Lemonade,Soft Drink,3,0,Credit Card
+105,5:29 PM,Ceasar Salad,Main Course,12,0,Cash
+105,5:29 PM,Cole Slaw,Side,5,0,Cash
+105,5:29 PM,Sprite,Soft Drink,3,0,Cash
+105,5:52 PM,Grilled Salmon,Main Course,24,0,Credit Card
+105,5:52 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+105,5:52 PM,Steamed vegetables,Side,5,0,Credit Card
+105,6:16 PM,Coke,Soft Drink,3,0,Cash
+105,6:16 PM,Deluxe Burger,Main Course,18,0,Cash
+105,6:16 PM,White rice,Side,2,0,Cash
+105,6:38 PM,Bread and butter,Side,2,0,Credit Card
+105,6:38 PM,Ceasar Salad,Main Course,12,0,Credit Card
+105,6:38 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+105,7:01 PM,Grilled Salmon,Main Course,24,0,Cash
+105,7:01 PM,Oakville The Estates Cabernet Sauvignon (2022),Wine,105,0,Cash
+105,7:01 PM,Steamed vegetables,Side,5,0,Cash
+105,7:25 PM,Deluxe Burger,Main Course,18,0,Credit Card
+105,7:25 PM,Diet Coke,Soft Drink,3,0,Credit Card
+105,7:25 PM,French Fries,Side,5,0,Credit Card
+105,7:52 PM,Ceasar Salad,Main Course,12,0,Credit Card
+105,7:52 PM,Cole Slaw,Side,5,0,Credit Card
+105,7:52 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+105,8:19 PM,Grilled Salmon,Main Course,24,0,Cash
+105,8:19 PM,Steamed vegetables,Side,5,0,Cash
+105,8:19 PM,The Estates Merlot Oakville (2021),Wine,65,0,Cash
+105,8:44 PM,Deluxe Burger,Main Course,18,0,Credit Card
+105,8:44 PM,Lemonade,Soft Drink,3,0,Credit Card
+105,8:44 PM,White rice,Side,2,0,Credit Card
+106,11:05 AM,Grilled Salmon,Main Course,24,0,Credit Card
+106,11:05 AM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Credit Card
+106,11:05 AM,Steamed vegetables,Side,5,0,Credit Card
+106,11:18 AM,Coke,Soft Drink,3,0,Cash
+106,11:18 AM,Deluxe Burger,Main Course,18,0,Cash
+106,11:18 AM,French Fries,Side,5,0,Cash
+106,11:28 AM,Ceasar Salad,Main Course,12,0,Credit Card
+106,11:28 AM,Cole Slaw,Side,5,0,Credit Card
+106,11:28 AM,Lemonade,Soft Drink,3,0,Credit Card
+106,11:43 AM,Grilled Salmon,Main Course,24,0,Cash
+106,11:43 AM,Napa Valley Syrah (2021),Wine,58,0,Cash
+106,11:43 AM,White rice,Side,2,0,Cash
+106,12:01 PM,Deluxe Burger,Main Course,18,0,Credit Card
+106,12:01 PM,Diet Coke,Soft Drink,3,0,Credit Card
+106,12:01 PM,Steamed vegetables,Side,5,0,Credit Card
+106,12:19 PM,Bread and butter,Side,2,0,Cash
+106,12:19 PM,Ceasar Salad,Main Course,12,0,Cash
+106,12:19 PM,Fruit Punch,Soft Drink,3,0,Cash
+106,12:33 PM,Grilled Salmon,Main Course,24,0,Credit Card
+106,12:33 PM,Napa Valley Red Blend (2019),Wine,50,0,Credit Card
+106,12:33 PM,Steamed vegetables,Side,5,0,Credit Card
+106,12:47 PM,Deluxe Burger,Main Course,18,0,Cash
+106,12:47 PM,French Fries,Side,5,0,Cash
+106,12:47 PM,Lemonade,Soft Drink,3,0,Cash
+106,5:02 PM,Ceasar Salad,Main Course,12,0,Credit Card
+106,5:02 PM,Cole Slaw,Side,5,0,Credit Card
+106,5:02 PM,Sprite,Soft Drink,3,0,Credit Card
+106,5:20 PM,Grilled Salmon,Main Course,24,0,Cash
+106,5:20 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Cash
+106,5:20 PM,Steamed vegetables,Side,5,0,Cash
+106,5:39 PM,Deluxe Burger,Main Course,18,0,Credit Card
+106,5:39 PM,Diet Coke,Soft Drink,3,0,Credit Card
+106,5:39 PM,White rice,Side,2,0,Credit Card
+106,6:04 PM,Bread and butter,Side,2,0,Cash
+106,6:04 PM,Ceasar Salad,Main Course,12,0,Cash
+106,6:04 PM,Fruit Punch,Soft Drink,3,0,Cash
+106,6:27 PM,Grilled Salmon,Main Course,24,0,Credit Card
+106,6:27 PM,Oakville The Estates Cabernet Sauvignon (2022),Wine,105,0,Credit Card
+106,6:27 PM,Steamed vegetables,Side,5,0,Credit Card
+106,6:52 PM,Deluxe Burger,Main Course,18,0,Cash
+106,6:52 PM,French Fries,Side,5,0,Cash
+106,6:52 PM,Lemonade,Soft Drink,3,0,Cash
+106,7:16 PM,Ceasar Salad,Main Course,12,0,Credit Card
+106,7:16 PM,Cole Slaw,Side,5,0,Credit Card
+106,7:16 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+106,7:42 PM,Grilled Salmon,Main Course,24,0,Cash
+106,7:42 PM,Steamed vegetables,Side,5,0,Cash
+106,7:42 PM,The Estates Merlot Oakville (2021),Wine,65,0,Cash
+106,8:06 PM,Coke,Soft Drink,3,0,Credit Card
+106,8:06 PM,Deluxe Burger,Main Course,18,0,Credit Card
+106,8:06 PM,White rice,Side,2,0,Credit Card
+106,8:31 PM,Bread and butter,Side,2,0,Cash
+106,8:31 PM,Ceasar Salad,Main Course,12,0,Cash
+106,8:31 PM,Fruit Punch,Soft Drink,3,0,Cash
+106,8:56 PM,Grilled Salmon,Main Course,24,0,Credit Card
+106,8:56 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+106,8:56 PM,Steamed vegetables,Side,5,0,Credit Card
+107,10:55 AM,Grilled Salmon,Main Course,24,0,Cash
+107,10:55 AM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Cash
+107,10:55 AM,Steamed vegetables,Side,5,0,Cash
+107,11:10 AM,Coke,Soft Drink,3,0,Credit Card
+107,11:10 AM,Deluxe Burger,Main Course,18,0,Credit Card
+107,11:10 AM,French Fries,Side,5,0,Credit Card
+107,11:27 AM,Ceasar Salad,Main Course,12,0,Cash
+107,11:27 AM,Cole Slaw,Side,5,0,Cash
+107,11:27 AM,Lemonade,Soft Drink,3,0,Cash
+107,11:44 AM,Grilled Salmon,Main Course,24,0,Credit Card
+107,11:44 AM,Napa Valley Syrah (2021),Wine,58,0,Credit Card
+107,11:44 AM,White rice,Side,2,0,Credit Card
+107,12:03 PM,Deluxe Burger,Main Course,18,0,Cash
+107,12:03 PM,Diet Coke,Soft Drink,3,0,Cash
+107,12:03 PM,Steamed vegetables,Side,5,0,Cash
+107,12:20 PM,Bread and butter,Side,2,0,Credit Card
+107,12:20 PM,Ceasar Salad,Main Course,12,0,Credit Card
+107,12:20 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+107,12:38 PM,Grilled Salmon,Main Course,24,0,Cash
+107,12:38 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+107,12:38 PM,Steamed vegetables,Side,5,0,Cash
+107,12:55 PM,Deluxe Burger,Main Course,18,0,Credit Card
+107,12:55 PM,French Fries,Side,5,0,Credit Card
+107,12:55 PM,Lemonade,Soft Drink,3,0,Credit Card
+107,5:10 PM,Ceasar Salad,Main Course,12,0,Cash
+107,5:10 PM,Cole Slaw,Side,5,0,Cash
+107,5:10 PM,Sprite,Soft Drink,3,0,Cash
+107,5:28 PM,Grilled Salmon,Main Course,24,0,Credit Card
+107,5:28 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+107,5:28 PM,Steamed vegetables,Side,5,0,Credit Card
+107,5:45 PM,Coke,Soft Drink,3,0,Cash
+107,5:45 PM,Deluxe Burger,Main Course,18,0,Cash
+107,5:45 PM,White rice,Side,2,0,Cash
+107,6:10 PM,Bread and butter,Side,2,0,Credit Card
+107,6:10 PM,Ceasar Salad,Main Course,12,0,Credit Card
+107,6:10 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+107,6:33 PM,Grilled Salmon,Main Course,24,0,Cash
+107,6:33 PM,Oakville The Estates Cabernet Sauvignon (2022),Wine,105,0,Cash
+107,6:33 PM,Steamed vegetables,Side,5,0,Cash
+107,6:56 PM,Deluxe Burger,Main Course,18,0,Credit Card
+107,6:56 PM,French Fries,Side,5,0,Credit Card
+107,6:56 PM,Lemonade,Soft Drink,3,0,Credit Card
+107,7:20 PM,Ceasar Salad,Main Course,12,0,Cash
+107,7:20 PM,Cole Slaw,Side,5,0,Cash
+107,7:20 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Cash
+107,7:45 PM,Grilled Salmon,Main Course,24,0,Credit Card
+107,7:45 PM,Steamed vegetables,Side,5,0,Credit Card
+107,7:45 PM,The Estates Merlot Oakville (2021),Wine,65,0,Credit Card
+107,8:10 PM,Deluxe Burger,Main Course,18,0,Cash
+107,8:10 PM,Lemonade,Soft Drink,3,0,Cash
+107,8:10 PM,White rice,Side,2,0,Cash
+107,8:33 PM,Bread and butter,Side,2,0,Credit Card
+107,8:33 PM,Ceasar Salad,Main Course,12,0,Credit Card
+107,8:33 PM,Fruit Punch,Soft Drink,3,0,Credit Card
+107,8:57 PM,Grilled Salmon,Main Course,24,0,Cash
+107,8:57 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Cash
+107,8:57 PM,Steamed vegetables,Side,5,0,Cash
+108,11:05 AM,Coke,Soft Drink,3,0,Credit Card
+108,11:05 AM,Coke,Soft Drink,3,0,Credit Card
+108,11:05 AM,Deluxe Burger,Main Course,18,0,Credit Card
+108,11:05 AM,Deluxe Burger,Main Course,18,0,Credit Card
+108,11:05 AM,French Fries,Side,5,0,Credit Card
+108,11:05 AM,French Fries,Side,5,0,Credit Card
+108,11:25 AM,Ceasar Salad,Main Course,12,0,Cash
+108,11:25 AM,Ceasar Salad,Main Course,12,0,Cash
+108,11:25 AM,Lemonade,Soft Drink,3,0,Cash
+108,11:25 AM,Lemonade,Soft Drink,3,0,Cash
+108,11:25 AM,White rice,Side,2,0,Cash
+108,11:25 AM,White rice,Side,2,0,Cash
+108,11:45 AM,Cole Slaw,Side,5,0,Credit Card
+108,11:45 AM,Cole Slaw,Side,5,0,Credit Card
+108,11:45 AM,Grilled Salmon,Main Course,24,0,Credit Card
+108,11:45 AM,Grilled Salmon,Main Course,24,0,Credit Card
+108,11:45 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+108,11:45 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+108,12:10 PM,Deluxe Burger,Main Course,18,0,Cash
+108,12:10 PM,Deluxe Burger,Main Course,18,0,Cash
+108,12:10 PM,Sprite,Soft Drink,3,0,Cash
+108,12:10 PM,Sprite,Soft Drink,3,0,Cash
+108,12:10 PM,Steamed vegetables,Side,5,0,Cash
+108,12:10 PM,Steamed vegetables,Side,5,0,Cash
+108,5:20 PM,Bread and butter,Side,2,0,Credit Card
+108,5:20 PM,Bread and butter,Side,2,0,Credit Card
+108,5:20 PM,Ceasar Salad,Main Course,12,0,Credit Card
+108,5:20 PM,Ceasar Salad,Main Course,12,0,Credit Card
+108,5:20 PM,Diet Coke,Soft Drink,3,0,Credit Card
+108,5:20 PM,Diet Coke,Soft Drink,3,0,Credit Card
+108,5:45 PM,Deluxe Burger,Main Course,18,0,Cash
+108,5:45 PM,Deluxe Burger,Main Course,18,0,Cash
+108,5:45 PM,French Fries,Side,5,0,Cash
+108,5:45 PM,French Fries,Side,5,0,Cash
+108,5:45 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Cash
+108,5:45 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Cash
+108,6:10 PM,Grilled Salmon,Main Course,24,0,Credit Card
+108,6:10 PM,Grilled Salmon,Main Course,24,0,Credit Card
+108,6:10 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+108,6:10 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+108,6:10 PM,Steamed vegetables,Side,5,0,Credit Card
+108,6:10 PM,Steamed vegetables,Side,5,0,Credit Card
+109,11:00 AM,Cole Slaw,Side,5,0,Cash
+109,11:00 AM,Cole Slaw,Side,5,0,Cash
+109,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+109,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+109,11:00 AM,Lemonade,Soft Drink,3,0,Cash
+109,11:00 AM,Lemonade,Soft Drink,3,0,Cash
+109,11:25 AM,Ceasar Salad,Main Course,12,0,Credit Card
+109,11:25 AM,Ceasar Salad,Main Course,12,0,Credit Card
+109,11:25 AM,Coke,Soft Drink,3,0,Credit Card
+109,11:25 AM,Coke,Soft Drink,3,0,Credit Card
+109,11:25 AM,White rice,Side,2,0,Credit Card
+109,11:25 AM,White rice,Side,2,0,Credit Card
+109,11:50 AM,Deluxe Burger,Main Course,18,0,Cash
+109,11:50 AM,Deluxe Burger,Main Course,18,0,Cash
+109,11:50 AM,French Fries,Side,5,0,Cash
+109,11:50 AM,French Fries,Side,5,0,Cash
+109,11:50 AM,Napa Valley Syrah (2021),Wine,58,0,Cash
+109,11:50 AM,Napa Valley Syrah (2021),Wine,58,0,Cash
+109,12:15 PM,Bread and butter,Side,2,0,Credit Card
+109,12:15 PM,Bread and butter,Side,2,0,Credit Card
+109,12:15 PM,Grilled Salmon,Main Course,24,0,Credit Card
+109,12:15 PM,Grilled Salmon,Main Course,24,0,Credit Card
+109,12:15 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+109,12:15 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+109,5:10 PM,Deluxe Burger,Main Course,18,0,Cash
+109,5:10 PM,Deluxe Burger,Main Course,18,0,Cash
+109,5:10 PM,Fruit Punch,Soft Drink,3,0,Cash
+109,5:10 PM,Fruit Punch,Soft Drink,3,0,Cash
+109,5:10 PM,Steamed vegetables,Side,5,0,Cash
+109,5:10 PM,Steamed vegetables,Side,5,0,Cash
+109,5:35 PM,Ceasar Salad,Main Course,12,0,Credit Card
+109,5:35 PM,Ceasar Salad,Main Course,12,0,Credit Card
+109,5:35 PM,Cole Slaw,Side,5,0,Credit Card
+109,5:35 PM,Cole Slaw,Side,5,0,Credit Card
+109,5:35 PM,Oakville Viognier (2022),Wine,40,0,Credit Card
+109,5:35 PM,Oakville Viognier (2022),Wine,40,0,Credit Card
+109,6:00 PM,Deluxe Burger,Main Course,18,0,Cash
+109,6:00 PM,Deluxe Burger,Main Course,18,0,Cash
+109,6:00 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+109,6:00 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+109,6:00 PM,White rice,Side,2,0,Cash
+109,6:00 PM,White rice,Side,2,0,Cash
+109,6:25 PM,Carneros Albari o (2023),Wine,36,0,Credit Card
+109,6:25 PM,Carneros Albari o (2023),Wine,36,0,Credit Card
+109,6:25 PM,French Fries,Side,5,0,Credit Card
+109,6:25 PM,French Fries,Side,5,0,Credit Card
+109,6:25 PM,Grilled Salmon,Main Course,24,0,Credit Card
+110,11:05 AM,Cole Slaw,Side,5,0,Cash
+110,11:05 AM,Cole Slaw,Side,5,0,Cash
+110,11:05 AM,Deluxe Burger,Main Course,18,0,Cash
+110,11:05 AM,Deluxe Burger,Main Course,18,0,Cash
+110,11:05 AM,Diet Coke,Soft Drink,3,0,Cash
+110,11:05 AM,Diet Coke,Soft Drink,3,0,Cash
+110,11:30 AM,Ceasar Salad,Main Course,12,0,Credit Card
+110,11:30 AM,Ceasar Salad,Main Course,12,0,Credit Card
+110,11:30 AM,Lemonade,Soft Drink,3,0,Credit Card
+110,11:30 AM,Lemonade,Soft Drink,3,0,Credit Card
+110,11:30 AM,Steamed vegetables,Side,5,0,Credit Card
+110,11:30 AM,Steamed vegetables,Side,5,0,Credit Card
+110,11:55 AM,Deluxe Burger,Main Course,18,0,Cash
+110,11:55 AM,Deluxe Burger,Main Course,18,0,Cash
+110,11:55 AM,French Fries,Side,5,0,Cash
+110,11:55 AM,French Fries,Side,5,0,Cash
+110,11:55 AM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Cash
+110,11:55 AM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Cash
+110,12:20 PM,Grilled Salmon,Main Course,24,0,Credit Card
+110,12:20 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+110,12:20 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+110,12:20 PM,White rice,Side,2,0,Credit Card
+110,12:20 PM,White rice,Side,2,0,Credit Card
+110,5:15 PM,Cole Slaw,Side,5,0,Cash
+110,5:15 PM,Cole Slaw,Side,5,0,Cash
+110,5:15 PM,Deluxe Burger,Main Course,18,0,Cash
+110,5:15 PM,Deluxe Burger,Main Course,18,0,Cash
+110,5:15 PM,Sprite,Soft Drink,3,0,Cash
+110,5:15 PM,Sprite,Soft Drink,3,0,Cash
+110,5:40 PM,Ceasar Salad,Main Course,12,0,Credit Card
+110,5:40 PM,Ceasar Salad,Main Course,12,0,Credit Card
+110,5:40 PM,Napa Valley Syrah (2021),Wine,58,0,Credit Card
+110,5:40 PM,Napa Valley Syrah (2021),Wine,58,0,Credit Card
+110,5:40 PM,Steamed vegetables,Side,5,0,Credit Card
+110,5:40 PM,Steamed vegetables,Side,5,0,Credit Card
+110,6:05 PM,Deluxe Burger,Main Course,18,0,Cash
+110,6:05 PM,Deluxe Burger,Main Course,18,0,Cash
+110,6:05 PM,French Fries,Side,5,0,Cash
+110,6:05 PM,French Fries,Side,5,0,Cash
+110,6:05 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Cash
+110,6:05 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Cash
+110,6:30 PM,Bread and butter,Side,2,0,Credit Card
+110,6:30 PM,Bread and butter,Side,2,0,Credit Card
+110,6:30 PM,Grilled Salmon,Main Course,24,0,Credit Card
+110,6:30 PM,Grilled Salmon,Main Course,24,0,Credit Card
+110,6:30 PM,Napa Valley Red Blend (2019),Wine,50,0,Credit Card
+110,6:30 PM,Napa Valley Red Blend (2019),Wine,50,0,Credit Card
+111,11:10 AM,Deluxe Burger,Main Course,18,0,Cash
+111,11:10 AM,Deluxe Burger,Main Course,18,0,Cash
+111,11:10 AM,French Fries,Side,5,0,Cash
+111,11:10 AM,French Fries,Side,5,0,Cash
+111,11:10 AM,Lemonade,Soft Drink,3,0,Cash
+111,11:10 AM,Lemonade,Soft Drink,3,0,Cash
+111,11:35 AM,Ceasar Salad,Main Course,12,0,Credit Card
+111,11:35 AM,Ceasar Salad,Main Course,12,0,Credit Card
+111,11:35 AM,Coke,Soft Drink,3,0,Credit Card
+111,11:35 AM,Coke,Soft Drink,3,0,Credit Card
+111,11:35 AM,White rice,Side,2,0,Credit Card
+111,11:35 AM,White rice,Side,2,0,Credit Card
+111,12:00 PM,Cole Slaw,Side,5,0,Cash
+111,12:00 PM,Cole Slaw,Side,5,0,Cash
+111,12:00 PM,Deluxe Burger,Main Course,18,0,Cash
+111,12:00 PM,Deluxe Burger,Main Course,18,0,Cash
+111,12:00 PM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Cash
+111,12:00 PM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Cash
+111,12:25 PM,Grilled Salmon,Main Course,24,0,Credit Card
+111,12:25 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+111,12:25 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+111,12:25 PM,Steamed vegetables,Side,5,0,Credit Card
+111,12:25 PM,Steamed vegetables,Side,5,0,Credit Card
+111,5:05 PM,Deluxe Burger,Main Course,18,0,Cash
+111,5:05 PM,Deluxe Burger,Main Course,18,0,Cash
+111,5:05 PM,Diet Coke,Soft Drink,3,0,Cash
+111,5:05 PM,Diet Coke,Soft Drink,3,0,Cash
+111,5:05 PM,French Fries,Side,5,0,Cash
+111,5:05 PM,French Fries,Side,5,0,Cash
+111,5:30 PM,Bread and butter,Side,2,0,Credit Card
+111,5:30 PM,Bread and butter,Side,2,0,Credit Card
+111,5:30 PM,Ceasar Salad,Main Course,12,0,Credit Card
+111,5:30 PM,Ceasar Salad,Main Course,12,0,Credit Card
+111,5:30 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+111,5:30 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+111,5:55 PM,Deluxe Burger,Main Course,18,0,Cash
+111,5:55 PM,Deluxe Burger,Main Course,18,0,Cash
+111,5:55 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+111,5:55 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+111,5:55 PM,White rice,Side,2,0,Cash
+111,5:55 PM,White rice,Side,2,0,Cash
+111,6:20 PM,Cole Slaw,Side,5,0,Credit Card
+111,6:20 PM,Cole Slaw,Side,5,0,Credit Card
+111,6:20 PM,Grilled Salmon,Main Course,24,0,Credit Card
+111,6:20 PM,Oakville Viognier (2022),Wine,40,0,Credit Card
+111,6:20 PM,Oakville Viognier (2022),Wine,40,0,Credit Card
+112,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+112,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+112,11:00 AM,French Fries,Side,5,0,Cash
+112,11:00 AM,French Fries,Side,5,0,Cash
+112,11:00 AM,Lemonade,Soft Drink,3,0,Cash
+112,11:00 AM,Lemonade,Soft Drink,3,0,Cash
+112,11:20 AM,Ceasar Salad,Main Course,12,0,Credit Card
+112,11:20 AM,Ceasar Salad,Main Course,12,0,Credit Card
+112,11:20 AM,Coke,Soft Drink,3,0,Credit Card
+112,11:20 AM,Coke,Soft Drink,3,0,Credit Card
+112,11:20 AM,Steamed vegetables,Side,5,0,Credit Card
+112,11:20 AM,Steamed vegetables,Side,5,0,Credit Card
+112,11:45 AM,Cole Slaw,Side,5,0,Cash
+112,11:45 AM,Cole Slaw,Side,5,0,Cash
+112,11:45 AM,Deluxe Burger,Main Course,18,0,Cash
+112,11:45 AM,Deluxe Burger,Main Course,18,0,Cash
+112,11:45 AM,Napa Valley Syrah (2021),Wine,58,0,Cash
+112,11:45 AM,Napa Valley Syrah (2021),Wine,58,0,Cash
+112,12:10 PM,Bread and butter,Side,2,0,Credit Card
+112,12:10 PM,Bread and butter,Side,2,0,Credit Card
+112,12:10 PM,Grilled Salmon,Main Course,24,0,Credit Card
+112,12:10 PM,Grilled Salmon,Main Course,24,0,Credit Card
+112,12:10 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+112,12:10 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+112,5:05 PM,Deluxe Burger,Main Course,18,0,Cash
+112,5:05 PM,Deluxe Burger,Main Course,18,0,Cash
+112,5:05 PM,French Fries,Side,5,0,Cash
+112,5:05 PM,French Fries,Side,5,0,Cash
+112,5:05 PM,Fruit Punch,Soft Drink,3,0,Cash
+112,5:05 PM,Fruit Punch,Soft Drink,3,0,Cash
+112,5:30 PM,Ceasar Salad,Main Course,12,0,Credit Card
+112,5:30 PM,Ceasar Salad,Main Course,12,0,Credit Card
+112,5:30 PM,Cole Slaw,Side,5,0,Credit Card
+112,5:30 PM,Cole Slaw,Side,5,0,Credit Card
+112,5:30 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Credit Card
+112,5:30 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Credit Card
+112,5:55 PM,Deluxe Burger,Main Course,18,0,Cash
+112,5:55 PM,Deluxe Burger,Main Course,18,0,Cash
+112,5:55 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+112,5:55 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+112,5:55 PM,White rice,Side,2,0,Cash
+112,5:55 PM,White rice,Side,2,0,Cash
+112,6:20 PM,French Fries,Side,5,0,Credit Card
+112,6:20 PM,French Fries,Side,5,0,Credit Card
+112,6:20 PM,Grilled Salmon,Main Course,24,0,Credit Card
+112,6:20 PM,Grilled Salmon,Main Course,24,0,Credit Card
+112,6:20 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+112,6:20 PM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+113,11:10 AM,Cole Slaw,Side,5,0,Cash
+113,11:10 AM,Cole Slaw,Side,5,0,Cash
+113,11:10 AM,Deluxe Burger,Main Course,18,0,Cash
+113,11:10 AM,Deluxe Burger,Main Course,18,0,Cash
+113,11:10 AM,Diet Coke,Soft Drink,3,0,Cash
+113,11:10 AM,Diet Coke,Soft Drink,3,0,Cash
+113,11:35 AM,Ceasar Salad,Main Course,12,0,Credit Card
+113,11:35 AM,Ceasar Salad,Main Course,12,0,Credit Card
+113,11:35 AM,Lemonade,Soft Drink,3,0,Credit Card
+113,11:35 AM,Lemonade,Soft Drink,3,0,Credit Card
+113,11:35 AM,Steamed vegetables,Side,5,0,Credit Card
+113,11:35 AM,Steamed vegetables,Side,5,0,Credit Card
+113,12:00 PM,Deluxe Burger,Main Course,18,0,Cash
+113,12:00 PM,Deluxe Burger,Main Course,18,0,Cash
+113,12:00 PM,French Fries,Side,5,0,Cash
+113,12:00 PM,French Fries,Side,5,0,Cash
+113,12:00 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Cash
+113,12:00 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Cash
+113,12:25 PM,Bread and butter,Side,2,0,Credit Card
+113,12:25 PM,Bread and butter,Side,2,0,Credit Card
+113,12:25 PM,Grilled Salmon,Main Course,24,0,Credit Card
+113,12:25 PM,Grilled Salmon,Main Course,24,0,Credit Card
+113,12:25 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+113,12:25 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+113,5:05 PM,Deluxe Burger,Main Course,18,0,Cash
+113,5:05 PM,Deluxe Burger,Main Course,18,0,Cash
+113,5:05 PM,French Fries,Side,5,0,Cash
+113,5:05 PM,French Fries,Side,5,0,Cash
+113,5:05 PM,Fruit Punch,Soft Drink,3,0,Cash
+113,5:05 PM,Fruit Punch,Soft Drink,3,0,Cash
+113,5:30 PM,Ceasar Salad,Main Course,12,0,Credit Card
+113,5:30 PM,Ceasar Salad,Main Course,12,0,Credit Card
+113,5:30 PM,Cole Slaw,Side,5,0,Credit Card
+113,5:30 PM,Cole Slaw,Side,5,0,Credit Card
+113,5:30 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Credit Card
+113,5:30 PM,Reserve Chardonnay Napa Valley (2021),Wine,55,0,Credit Card
+113,5:55 PM,Deluxe Burger,Main Course,18,0,Cash
+113,5:55 PM,Deluxe Burger,Main Course,18,0,Cash
+113,5:55 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+113,5:55 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+113,5:55 PM,White rice,Side,2,0,Cash
+113,5:55 PM,White rice,Side,2,0,Cash
+113,6:20 PM,French Fries,Side,5,0,Credit Card
+113,6:20 PM,French Fries,Side,5,0,Credit Card
+113,6:20 PM,Grilled Salmon,Main Course,24,0,Credit Card
+113,6:20 PM,Oakville Viognier (2022),Wine,40,0,Credit Card
+113,6:20 PM,Oakville Viognier (2022),Wine,40,0,Credit Card
+114,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+114,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+114,11:00 AM,French Fries,Side,5,0,Cash
+114,11:00 AM,French Fries,Side,5,0,Cash
+114,11:00 AM,Lemonade,Soft Drink,3,0,Cash
+114,11:00 AM,Lemonade,Soft Drink,3,0,Cash
+114,11:25 AM,Ceasar Salad,Main Course,12,0,Credit Card
+114,11:25 AM,Ceasar Salad,Main Course,12,0,Credit Card
+114,11:25 AM,Coke,Soft Drink,3,0,Credit Card
+114,11:25 AM,Coke,Soft Drink,3,0,Credit Card
+114,11:25 AM,White rice,Side,2,0,Credit Card
+114,11:25 AM,White rice,Side,2,0,Credit Card
+114,11:50 AM,Cole Slaw,Side,5,0,Cash
+114,11:50 AM,Cole Slaw,Side,5,0,Cash
+114,11:50 AM,Deluxe Burger,Main Course,18,0,Cash
+114,11:50 AM,Deluxe Burger,Main Course,18,0,Cash
+114,11:50 AM,Napa Valley Syrah (2021),Wine,58,0,Cash
+114,11:50 AM,Napa Valley Syrah (2021),Wine,58,0,Cash
+114,12:15 PM,Bread and butter,Side,2,0,Credit Card
+114,12:15 PM,Bread and butter,Side,2,0,Credit Card
+114,12:15 PM,Grilled Salmon,Main Course,24,0,Credit Card
+114,12:15 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+114,12:15 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+114,5:10 PM,Deluxe Burger,Main Course,18,0,Cash
+114,5:10 PM,Deluxe Burger,Main Course,18,0,Cash
+114,5:10 PM,French Fries,Side,5,0,Cash
+114,5:10 PM,French Fries,Side,5,0,Cash
+114,5:10 PM,Sprite,Soft Drink,3,0,Cash
+114,5:10 PM,Sprite,Soft Drink,3,0,Cash
+114,5:35 PM,Ceasar Salad,Main Course,12,0,Credit Card
+114,5:35 PM,Ceasar Salad,Main Course,12,0,Credit Card
+114,5:35 PM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+114,5:35 PM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+114,5:35 PM,Steamed vegetables,Side,5,0,Credit Card
+114,5:35 PM,Steamed vegetables,Side,5,0,Credit Card
+114,6:00 PM,Deluxe Burger,Main Course,18,0,Cash
+114,6:00 PM,Deluxe Burger,Main Course,18,0,Cash
+114,6:00 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+114,6:00 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+114,6:00 PM,White rice,Side,2,0,Cash
+114,6:00 PM,White rice,Side,2,0,Cash
+114,6:25 PM,French Fries,Side,5,0,Credit Card
+114,6:25 PM,French Fries,Side,5,0,Credit Card
+114,6:25 PM,Grilled Salmon,Main Course,24,0,Credit Card
+114,6:25 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+114,6:25 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+115,11:05 AM,Coke,Soft Drink,3,0,Cash
+115,11:05 AM,Coke,Soft Drink,3,0,Cash
+115,11:05 AM,Coke,Soft Drink,3,0,Cash
+115,11:05 AM,Deluxe Burger,Main Course,18,0,Cash
+115,11:05 AM,Deluxe Burger,Main Course,18,0,Cash
+115,11:05 AM,Deluxe Burger,Main Course,18,0,Cash
+115,11:05 AM,French Fries,Side,5,0,Cash
+115,11:05 AM,French Fries,Side,5,0,Cash
+115,11:05 AM,French Fries,Side,5,0,Cash
+115,11:30 AM,Ceasar Salad,Main Course,12,0,Credit Card
+115,11:30 AM,Ceasar Salad,Main Course,12,0,Credit Card
+115,11:30 AM,Ceasar Salad,Main Course,12,0,Credit Card
+115,11:30 AM,Lemonade,Soft Drink,3,0,Credit Card
+115,11:30 AM,Lemonade,Soft Drink,3,0,Credit Card
+115,11:30 AM,Lemonade,Soft Drink,3,0,Credit Card
+115,11:30 AM,White rice,Side,2,0,Credit Card
+115,11:30 AM,White rice,Side,2,0,Credit Card
+115,11:30 AM,White rice,Side,2,0,Credit Card
+115,11:55 AM,Cole Slaw,Side,5,0,Cash
+115,11:55 AM,Cole Slaw,Side,5,0,Cash
+115,11:55 AM,Cole Slaw,Side,5,0,Cash
+115,11:55 AM,Grilled Salmon,Main Course,24,0,Cash
+115,11:55 AM,Grilled Salmon,Main Course,24,0,Cash
+115,11:55 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Cash
+115,11:55 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Cash
+115,11:55 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Cash
+115,5:10 PM,Deluxe Burger,Main Course,18,0,Credit Card
+115,5:10 PM,Deluxe Burger,Main Course,18,0,Credit Card
+115,5:10 PM,Deluxe Burger,Main Course,18,0,Credit Card
+115,5:10 PM,Diet Coke,Soft Drink,3,0,Credit Card
+115,5:10 PM,Diet Coke,Soft Drink,3,0,Credit Card
+115,5:10 PM,Diet Coke,Soft Drink,3,0,Credit Card
+115,5:10 PM,Steamed vegetables,Side,5,0,Credit Card
+115,5:10 PM,Steamed vegetables,Side,5,0,Credit Card
+115,5:10 PM,Steamed vegetables,Side,5,0,Credit Card
+115,5:35 PM,Ceasar Salad,Main Course,12,0,Cash
+115,5:35 PM,Ceasar Salad,Main Course,12,0,Cash
+115,5:35 PM,Ceasar Salad,Main Course,12,0,Cash
+115,5:35 PM,French Fries,Side,5,0,Cash
+115,5:35 PM,French Fries,Side,5,0,Cash
+115,5:35 PM,French Fries,Side,5,0,Cash
+115,5:35 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+115,5:35 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+115,5:35 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+116,11:00 AM,Bread and butter,Side,2,0,Cash
+116,11:00 AM,Bread and butter,Side,2,0,Cash
+116,11:00 AM,Bread and butter,Side,2,0,Cash
+116,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+116,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+116,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+116,11:00 AM,Sprite,Soft Drink,3,0,Cash
+116,11:00 AM,Sprite,Soft Drink,3,0,Cash
+116,11:00 AM,Sprite,Soft Drink,3,0,Cash
+116,11:25 AM,Ceasar Salad,Main Course,12,0,Credit Card
+116,11:25 AM,Ceasar Salad,Main Course,12,0,Credit Card
+116,11:25 AM,Ceasar Salad,Main Course,12,0,Credit Card
+116,11:25 AM,Cole Slaw,Side,5,0,Credit Card
+116,11:25 AM,Cole Slaw,Side,5,0,Credit Card
+116,11:25 AM,Cole Slaw,Side,5,0,Credit Card
+116,11:25 AM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+116,11:25 AM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+116,11:25 AM,Reserve Pinot Noir Carneros (2020),Wine,60,0,Credit Card
+116,11:50 AM,Deluxe Burger,Main Course,18,0,Cash
+116,11:50 AM,Deluxe Burger,Main Course,18,0,Cash
+116,11:50 AM,Deluxe Burger,Main Course,18,0,Cash
+116,11:50 AM,French Fries,Side,5,0,Cash
+116,11:50 AM,French Fries,Side,5,0,Cash
+116,11:50 AM,French Fries,Side,5,0,Cash
+116,11:50 AM,Lemonade,Soft Drink,3,0,Cash
+116,11:50 AM,Lemonade,Soft Drink,3,0,Cash
+116,11:50 AM,Lemonade,Soft Drink,3,0,Cash
+116,5:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+116,5:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+116,5:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+116,5:05 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+116,5:05 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+116,5:05 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+116,5:05 PM,White rice,Side,2,0,Credit Card
+116,5:05 PM,White rice,Side,2,0,Credit Card
+116,5:05 PM,White rice,Side,2,0,Credit Card
+116,5:30 PM,Cole Slaw,Side,5,0,Cash
+116,5:30 PM,Cole Slaw,Side,5,0,Cash
+116,5:30 PM,Cole Slaw,Side,5,0,Cash
+116,5:30 PM,Deluxe Burger,Main Course,18,0,Cash
+116,5:30 PM,Deluxe Burger,Main Course,18,0,Cash
+116,5:30 PM,Deluxe Burger,Main Course,18,0,Cash
+116,5:30 PM,Diet Coke,Soft Drink,3,0,Cash
+116,5:30 PM,Diet Coke,Soft Drink,3,0,Cash
+116,5:30 PM,Diet Coke,Soft Drink,3,0,Cash
+117,11:10 AM,Ceasar Salad,Main Course,12,0,Credit Card
+117,11:10 AM,Ceasar Salad,Main Course,12,0,Credit Card
+117,11:10 AM,Ceasar Salad,Main Course,12,0,Credit Card
+117,11:10 AM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+117,11:10 AM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+117,11:10 AM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+117,11:10 AM,Steamed vegetables,Side,5,0,Credit Card
+117,11:10 AM,Steamed vegetables,Side,5,0,Credit Card
+117,11:10 AM,Steamed vegetables,Side,5,0,Credit Card
+117,11:35 AM,Deluxe Burger,Main Course,18,0,Cash
+117,11:35 AM,Deluxe Burger,Main Course,18,0,Cash
+117,11:35 AM,Deluxe Burger,Main Course,18,0,Cash
+117,11:35 AM,French Fries,Side,5,0,Cash
+117,11:35 AM,French Fries,Side,5,0,Cash
+117,11:35 AM,French Fries,Side,5,0,Cash
+117,11:35 AM,Sprite,Soft Drink,3,0,Cash
+117,11:35 AM,Sprite,Soft Drink,3,0,Cash
+117,11:35 AM,Sprite,Soft Drink,3,0,Cash
+117,12:00 PM,Bread and butter,Side,2,0,Credit Card
+117,12:00 PM,Bread and butter,Side,2,0,Credit Card
+117,12:00 PM,Bread and butter,Side,2,0,Credit Card
+117,12:00 PM,Ceasar Salad,Main Course,12,0,Credit Card
+117,12:00 PM,Ceasar Salad,Main Course,12,0,Credit Card
+117,12:00 PM,Ceasar Salad,Main Course,12,0,Credit Card
+117,12:00 PM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+117,12:00 PM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+117,12:00 PM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+117,5:05 PM,Coke,Soft Drink,3,0,Cash
+117,5:05 PM,Coke,Soft Drink,3,0,Cash
+117,5:05 PM,Coke,Soft Drink,3,0,Cash
+117,5:05 PM,Cole Slaw,Side,5,0,Cash
+117,5:05 PM,Cole Slaw,Side,5,0,Cash
+117,5:05 PM,Cole Slaw,Side,5,0,Cash
+117,5:05 PM,Deluxe Burger,Main Course,18,0,Cash
+117,5:05 PM,Deluxe Burger,Main Course,18,0,Cash
+117,5:05 PM,Deluxe Burger,Main Course,18,0,Cash
+117,5:30 PM,Ceasar Salad,Main Course,12,0,Credit Card
+117,5:30 PM,Ceasar Salad,Main Course,12,0,Credit Card
+117,5:30 PM,Ceasar Salad,Main Course,12,0,Credit Card
+117,5:30 PM,Napa Valley Red Blend (2019),Wine,50,0,Credit Card
+117,5:30 PM,Napa Valley Red Blend (2019),Wine,50,0,Credit Card
+117,5:30 PM,Napa Valley Red Blend (2019),Wine,50,0,Credit Card
+117,5:30 PM,White rice,Side,2,0,Credit Card
+117,5:30 PM,White rice,Side,2,0,Credit Card
+117,5:30 PM,White rice,Side,2,0,Credit Card
+118,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+118,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+118,11:00 AM,Deluxe Burger,Main Course,18,0,Cash
+118,11:00 AM,French Fries,Side,5,0,Cash
+118,11:00 AM,French Fries,Side,5,0,Cash
+118,11:00 AM,French Fries,Side,5,0,Cash
+118,11:00 AM,Lemonade,Soft Drink,3,0,Cash
+118,11:00 AM,Lemonade,Soft Drink,3,0,Cash
+118,11:00 AM,Lemonade,Soft Drink,3,0,Cash
+118,11:25 AM,Ceasar Salad,Main Course,12,0,Credit Card
+118,11:25 AM,Ceasar Salad,Main Course,12,0,Credit Card
+118,11:25 AM,Ceasar Salad,Main Course,12,0,Credit Card
+118,11:25 AM,Cole Slaw,Side,5,0,Credit Card
+118,11:25 AM,Cole Slaw,Side,5,0,Credit Card
+118,11:25 AM,Cole Slaw,Side,5,0,Credit Card
+118,11:25 AM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+118,11:25 AM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+118,11:25 AM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+118,11:50 AM,Deluxe Burger,Main Course,18,0,Cash
+118,11:50 AM,Deluxe Burger,Main Course,18,0,Cash
+118,11:50 AM,Deluxe Burger,Main Course,18,0,Cash
+118,11:50 AM,Sprite,Soft Drink,3,0,Cash
+118,11:50 AM,Sprite,Soft Drink,3,0,Cash
+118,11:50 AM,Sprite,Soft Drink,3,0,Cash
+118,11:50 AM,Steamed vegetables,Side,5,0,Cash
+118,11:50 AM,Steamed vegetables,Side,5,0,Cash
+118,11:50 AM,Steamed vegetables,Side,5,0,Cash
+118,5:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+118,5:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+118,5:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+118,5:05 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+118,5:05 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+118,5:05 PM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+118,5:05 PM,White rice,Side,2,0,Credit Card
+118,5:05 PM,White rice,Side,2,0,Credit Card
+118,5:05 PM,White rice,Side,2,0,Credit Card
+118,5:30 PM,Cole Slaw,Side,5,0,Cash
+118,5:30 PM,Cole Slaw,Side,5,0,Cash
+118,5:30 PM,Cole Slaw,Side,5,0,Cash
+118,5:30 PM,Deluxe Burger,Main Course,18,0,Cash
+118,5:30 PM,Deluxe Burger,Main Course,18,0,Cash
+118,5:30 PM,Deluxe Burger,Main Course,18,0,Cash
+118,5:30 PM,Diet Coke,Soft Drink,3,0,Cash
+118,5:30 PM,Diet Coke,Soft Drink,3,0,Cash
+118,5:30 PM,Diet Coke,Soft Drink,3,0,Cash
+119,11:15 AM,French Fries,Side,5,0,Credit Card
+119,11:15 AM,French Fries,Side,5,0,Credit Card
+119,11:15 AM,French Fries,Side,5,0,Credit Card
+119,11:15 AM,Grilled Salmon,Main Course,24,0,Credit Card
+119,11:15 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+119,11:15 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+119,11:15 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Credit Card
+119,11:40 AM,Coke,Soft Drink,3,0,Cash
+119,11:40 AM,Coke,Soft Drink,3,0,Cash
+119,11:40 AM,Coke,Soft Drink,3,0,Cash
+119,11:40 AM,Cole Slaw,Side,5,0,Cash
+119,11:40 AM,Cole Slaw,Side,5,0,Cash
+119,11:40 AM,Cole Slaw,Side,5,0,Cash
+119,11:40 AM,Deluxe Burger,Main Course,18,0,Cash
+119,11:40 AM,Deluxe Burger,Main Course,18,0,Cash
+119,11:40 AM,Deluxe Burger,Main Course,18,0,Cash
+119,12:05 PM,Bread and butter,Side,2,0,Credit Card
+119,12:05 PM,Bread and butter,Side,2,0,Credit Card
+119,12:05 PM,Bread and butter,Side,2,0,Credit Card
+119,12:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+119,12:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+119,12:05 PM,Ceasar Salad,Main Course,12,0,Credit Card
+119,12:05 PM,Napa Valley Red Blend (2019),Wine,50,0,Credit Card
+119,12:05 PM,Napa Valley Red Blend (2019),Wine,50,0,Credit Card
+119,12:05 PM,Napa Valley Red Blend (2019),Wine,50,0,Credit Card
+119,5:15 PM,Deluxe Burger,Main Course,18,0,Cash
+119,5:15 PM,Deluxe Burger,Main Course,18,0,Cash
+119,5:15 PM,Deluxe Burger,Main Course,18,0,Cash
+119,5:15 PM,Sprite,Soft Drink,3,0,Cash
+119,5:15 PM,Sprite,Soft Drink,3,0,Cash
+119,5:15 PM,Sprite,Soft Drink,3,0,Cash
+119,5:15 PM,Steamed vegetables,Side,5,0,Cash
+119,5:15 PM,Steamed vegetables,Side,5,0,Cash
+119,5:15 PM,Steamed vegetables,Side,5,0,Cash
+119,5:40 PM,Ceasar Salad,Main Course,12,0,Credit Card
+119,5:40 PM,Ceasar Salad,Main Course,12,0,Credit Card
+119,5:40 PM,Ceasar Salad,Main Course,12,0,Credit Card
+119,5:40 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+119,5:40 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+119,5:40 PM,Napa Valley Red Blend (2021),Wine,50,0,Credit Card
+119,5:40 PM,White rice,Side,2,0,Credit Card
+119,5:40 PM,White rice,Side,2,0,Credit Card
+119,5:40 PM,White rice,Side,2,0,Credit Card
+120,11:10 AM,Deluxe Burger,Main Course,18,0,Cash
+120,11:10 AM,Deluxe Burger,Main Course,18,0,Cash
+120,11:10 AM,Deluxe Burger,Main Course,18,0,Cash
+120,11:10 AM,French Fries,Side,5,0,Cash
+120,11:10 AM,French Fries,Side,5,0,Cash
+120,11:10 AM,French Fries,Side,5,0,Cash
+120,11:10 AM,Lemonade,Soft Drink,3,0,Cash
+120,11:10 AM,Lemonade,Soft Drink,3,0,Cash
+120,11:10 AM,Lemonade,Soft Drink,3,0,Cash
+120,11:35 AM,Ceasar Salad,Main Course,12,0,Credit Card
+120,11:35 AM,Ceasar Salad,Main Course,12,0,Credit Card
+120,11:35 AM,Ceasar Salad,Main Course,12,0,Credit Card
+120,11:35 AM,Cole Slaw,Side,5,0,Credit Card
+120,11:35 AM,Cole Slaw,Side,5,0,Credit Card
+120,11:35 AM,Cole Slaw,Side,5,0,Credit Card
+120,11:35 AM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+120,11:35 AM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+120,11:35 AM,Napa Valley Moscato d'Oro (2020),Wine,25,0,Credit Card
+120,12:00 PM,Bread and butter,Side,2,0,Cash
+120,12:00 PM,Bread and butter,Side,2,0,Cash
+120,12:00 PM,Bread and butter,Side,2,0,Cash
+120,12:00 PM,Grilled Salmon,Main Course,24,0,Cash
+120,12:00 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+120,12:00 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+120,12:00 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+120,5:20 PM,Coke,Soft Drink,3,0,Credit Card
+120,5:20 PM,Coke,Soft Drink,3,0,Credit Card
+120,5:20 PM,Coke,Soft Drink,3,0,Credit Card
+120,5:20 PM,Deluxe Burger,Main Course,18,0,Credit Card
+120,5:20 PM,Deluxe Burger,Main Course,18,0,Credit Card
+120,5:20 PM,Deluxe Burger,Main Course,18,0,Credit Card
+120,5:20 PM,Steamed vegetables,Side,5,0,Credit Card
+120,5:20 PM,Steamed vegetables,Side,5,0,Credit Card
+120,5:20 PM,Steamed vegetables,Side,5,0,Credit Card
+120,5:45 PM,Ceasar Salad,Main Course,12,0,Cash
+120,5:45 PM,Ceasar Salad,Main Course,12,0,Cash
+120,5:45 PM,Ceasar Salad,Main Course,12,0,Cash
+120,5:45 PM,Napa Valley Red Blend (2021),Wine,50,0,Cash
+120,5:45 PM,Napa Valley Red Blend (2021),Wine,50,0,Cash
+120,5:45 PM,Napa Valley Red Blend (2021),Wine,50,0,Cash
+120,5:45 PM,White rice,Side,2,0,Cash
+120,5:45 PM,White rice,Side,2,0,Cash
+120,5:45 PM,White rice,Side,2,0,Cash
+121,11:00 AM,Deluxe Burger,Main Course,18,0,Credit Card
+121,11:00 AM,Deluxe Burger,Main Course,18,0,Credit Card
+121,11:00 AM,Deluxe Burger,Main Course,18,0,Credit Card
+121,11:00 AM,Diet Coke,Soft Drink,3,0,Credit Card
+121,11:00 AM,Diet Coke,Soft Drink,3,0,Credit Card
+121,11:00 AM,Diet Coke,Soft Drink,3,0,Credit Card
+121,11:00 AM,French Fries,Side,5,0,Credit Card
+121,11:00 AM,French Fries,Side,5,0,Credit Card
+121,11:00 AM,French Fries,Side,5,0,Credit Card
+121,11:25 AM,Ceasar Salad,Main Course,12,0,Cash
+121,11:25 AM,Ceasar Salad,Main Course,12,0,Cash
+121,11:25 AM,Ceasar Salad,Main Course,12,0,Cash
+121,11:25 AM,Cole Slaw,Side,5,0,Cash
+121,11:25 AM,Cole Slaw,Side,5,0,Cash
+121,11:25 AM,Cole Slaw,Side,5,0,Cash
+121,11:25 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Cash
+121,11:25 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Cash
+121,11:25 AM,Napa Valley Sauvignon Blanc (2022),Wine,50,0,Cash
+121,11:50 AM,Bread and butter,Side,2,0,Credit Card
+121,11:50 AM,Bread and butter,Side,2,0,Credit Card
+121,11:50 AM,Bread and butter,Side,2,0,Credit Card
+121,11:50 AM,Coke,Soft Drink,3,0,Credit Card
+121,11:50 AM,Coke,Soft Drink,3,0,Credit Card
+121,11:50 AM,Coke,Soft Drink,3,0,Credit Card
+121,11:50 AM,Deluxe Burger,Main Course,18,0,Credit Card
+121,11:50 AM,Deluxe Burger,Main Course,18,0,Credit Card
+121,11:50 AM,Deluxe Burger,Main Course,18,0,Credit Card
+121,5:15 PM,French Fries,Side,5,0,Cash
+121,5:15 PM,French Fries,Side,5,0,Cash
+121,5:15 PM,French Fries,Side,5,0,Cash
+121,5:15 PM,Grilled Salmon,Main Course,24,0,Cash
+121,5:15 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+121,5:15 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+121,5:15 PM,Napa Valley Red Blend (2019),Wine,50,0,Cash
+121,5:40 PM,Deluxe Burger,Main Course,18,0,Credit Card
+121,5:40 PM,Deluxe Burger,Main Course,18,0,Credit Card
+121,5:40 PM,Deluxe Burger,Main Course,18,0,Credit Card
+121,5:40 PM,Lemonade,Soft Drink,3,0,Credit Card
+121,5:40 PM,Lemonade,Soft Drink,3,0,Credit Card
+121,5:40 PM,Lemonade,Soft Drink,3,0,Credit Card
+121,5:40 PM,Steamed vegetables,Side,5,0,Credit Card
+121,5:40 PM,Steamed vegetables,Side,5,0,Credit Card
+121,5:40 PM,Steamed vegetables,Side,5,0,Credit Card
